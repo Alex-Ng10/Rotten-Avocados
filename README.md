@@ -1,4 +1,5 @@
 # Rotten-Avocados 🥑
+https://jam-group-project.github.io/Rotten-Avocados/
 
 A collaborative group project inspired by Rotten Tomatoes 🍅, designed to help users browse movies from the TMDB API, rate them, write personal notes, and organize their discoveries into custom categories and lists.
 
