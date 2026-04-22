@@ -15,14 +15,12 @@ Rotten-Avocados combines a modern, intuitive interface with powerful backend fun
 
 ### Frontend
 - **React** - UI framework
-- **TailwindCSS** - Styling and responsive design
 
 ### Backend
 - **Node.js** - JavaScript runtime
 - **FastAPI** - Python API framework
 
 ### Database & APIs
-- **PostgreSQL** - Data persistence (Movies, Users, Lists, Ratings)
 - **TMDB API** - Movie data source
 
 ---
